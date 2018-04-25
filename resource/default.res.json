@@ -1,0 +1,40 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,Bicycle_2_ske_20c0404b_json,Bicycle_2_tex_748da0ac_png,Bicycle_2_tex_3886d8c5_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "Bicycle_2_ske_20c0404b_json",
+			"type": "json",
+			"url": "assets/Bicycle_2_ske_20c0404b.json"
+		},
+		{
+			"name": "Bicycle_2_tex_748da0ac_png",
+			"type": "image",
+			"url": "assets/Bicycle_2_tex_748da0ac.png"
+		},
+		{
+			"name": "Bicycle_2_tex_3886d8c5_json",
+			"type": "json",
+			"url": "assets/Bicycle_2_tex_3886d8c5.json"
+		}
+	]
+}

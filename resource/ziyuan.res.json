@@ -1,0 +1,25 @@
+{
+	"groups": [
+		{
+			"keys": "Bicycle_1_ske,Bicycle_1_tex_png,Bicycle_1_tex_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/Bicycle_1_ske.json",
+			"type": "json",
+			"name": "Bicycle_1_ske"
+		},
+		{
+			"url": "assets/Bicycle_1_tex.png",
+			"type": "image",
+			"name": "Bicycle_1_tex_png"
+		},
+		{
+			"url": "assets/Bicycle_1_tex.json",
+			"type": "json",
+			"name": "Bicycle_1_tex_json"
+		}
+	]
+}
